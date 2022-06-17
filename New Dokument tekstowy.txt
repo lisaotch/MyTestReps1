@@ -1,1 +1,1 @@
-My first test file
++ drop table shop;
