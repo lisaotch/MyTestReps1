@@ -74,7 +74,7 @@ INNER Join client
 On shop.client_id= client.id
 group by name
 order by sum;
-
+ drop table shop;
 
 
 
